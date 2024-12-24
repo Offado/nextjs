@@ -1,0 +1,13 @@
+.lien1 {
+    font-size: 2rem;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+span {
+    color: black;
+}
+
+span:hover {
+    color: #333;
+}

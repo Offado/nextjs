@@ -5,6 +5,7 @@ import "./header.css";
 import { Link as ScrollLink } from "react-scroll";
 import Logo from "../Logo/Logo";
 
+
 const links = [
   {
     name: "home",
@@ -29,14 +30,10 @@ const Header = () => {
             <li>
               {/* Logo */}
               <Logo />
-              {/* Nav and socials */}
             </li>
-            <li>
-              <div>nav</div>
-            </li>
-            <li>
-              <div>socials</div>
-            </li>
+            {/* Nav and socials */}
+            <li>nav</li>
+            <li>socials</li>
           </ul>
         </div>
       </div>
