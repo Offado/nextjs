@@ -20,6 +20,33 @@ ul li {
   cursor: pointer;
 }
 
-ul li:hover {
-    color: #7edad2;
+.about {
+  list-style: none;
+  text-decoration: none;
+}
+
+.sp2:hover {
+  color: #7edad2;
+}
+
+.projects {
+  list-style: none;
+  text-decoration: none;
+}
+
+.sp3:hover {
+  color: #7edad2;
+}
+
+.contact {
+  list-style: none;
+  text-decoration: none;
+}
+
+.sp4:hover {
+  color: #7edad2;
+}
+
+.sp5:hover {
+  color: #7edad2;
 }

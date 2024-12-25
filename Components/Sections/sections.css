@@ -1,0 +1,9 @@
+.section {
+    background: beige;
+    padding-top: 24rem /* 384px */;
+    padding-bottom: 24rem /* 384px */;
+}
+
+.h1-section {
+    text-align: center;
+} 

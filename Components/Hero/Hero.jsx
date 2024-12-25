@@ -17,7 +17,7 @@ const Hero = () => {
       <div className="container-header">
         <div className="head xl:max-w-[768px] xl:items-start xl:text-left">
           <h1 className="xl:max-w-none xl:text-[90px] max-w-[320px] mb-2">
-            <span className="sp1">Je construis</span> et conçois des
+            <span className="sp1">Je développe</span> et conçois des
             <br />
             <TypeAnimation
               preRenderFirstString={true}
